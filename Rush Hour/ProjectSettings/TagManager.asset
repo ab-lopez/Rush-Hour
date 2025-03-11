@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tetromino
+  - wall
+  - evilWall
+  - floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3148587359
+    locked: 0
+  - name: Tiles
+    uniqueID: 970357701
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Main Sprites
+    uniqueID: 3754068319
+    locked: 0
+  - name: UI
+    uniqueID: 337975577
+    locked: 0

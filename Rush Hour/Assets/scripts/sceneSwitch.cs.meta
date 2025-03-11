@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f6d190bc0d9e943de8b5f1cfe61f01d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - metroNoise: {instanceID: 0}
+  - mJingle: {fileID: 8300000, guid: 445bc3df8d1ef44cebbccec68c5217ca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
